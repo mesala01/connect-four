@@ -19,7 +19,7 @@ h1{
 #main{
   display: grid;
   grid-template-rows: 20%, 80%;
-  height: 100vh;
+  height: 100%;
   background-color: rgb(199, 194, 148);
   padding: 1rem;
 }
